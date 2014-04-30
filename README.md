@@ -32,4 +32,6 @@ $(document).ready(function(){
     //eval() function
 				biao.append("<li class='biao_bottom'><ul><li>" + "求和" + "</li><li>" + eval(total_putong.join("+")) + "</li><li>" + eval(total_youxiu.join("+")) + "</li><li>" + eval(total_jingying.join("+")) + "</li><li>" + eval(total_jiechu.join("+")) + "</li><li>" + eval(total_mingxing.join("+")) + "</li><li>" + eval(total_juxing.join("+")) + "</li><li>" + eval(eval(total_chuanqi.join("+"))) + "</li></ul></li>");
     });
+    //in python and jquery - display option drop-down menu with its detail drop-down menu
+    
     
